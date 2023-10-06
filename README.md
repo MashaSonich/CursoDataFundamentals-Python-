@@ -17,3 +17,9 @@ M5 - 09 - Folium
 Prophet - predecir el valor de Bitcoin
 # Visualizar y importar datos, representacion grafica con variables 'y', 'x'y visualizar la relacion entre ellos, visualizar probabilidad de exito o la evolucion en el tiempo, proyecto sobre SpaceX
 SpaceX - 4 - EDA
+
+# Dia 4
+# Peticion GET A LA API, reduccion de columnas en el df, funcion getBoosterversion, launch_data(crea data frame desde el diccionario), filtracion dataframe, visualizar valores nulos, funciones .mean y .replace, para remplazar valores nulos, "".map(lambda x : ','.join(x)) "" para transformar lista en string para sql, guardar el archivo como .csv
+Copia de SpaceX - 1 -
+# Analisis de datos utilizando SQL, subir los datos a la base de datos, queries con SQL
+Copia de SpaceX - 3 -EDA
