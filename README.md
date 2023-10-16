@@ -23,3 +23,8 @@ SpaceX - 4 - EDA
 Copia de SpaceX - 1 -
 # Analisis de datos utilizando SQL, subir los datos a la base de datos, queries con SQL
 Copia de SpaceX - 3 -EDA
+
+# Dia 5
+# Usar la librería numpy, realizar operaciones con numpy
+# Análisis de datos exploratorio(SpaceX)
+# Ejercicios Python
