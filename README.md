@@ -13,7 +13,7 @@ M4 - 10 - Pandas
 # Dia 3
 # Generando mapas con Python, folium, stamen toner maps, stamen terrain maps, location[], zoom_start, mapas con indicadores markercluster, corpoletas, proyecto 'Inmigracion a Canada entre 1980 a 2013.
 M5 - 09 - Folium
-# Predicciones con Prophet, entrenar y predecir el modelo, pasarmodelo al dataframe, creacion grafico con modelo entrenado, proyecto 'Bitoin'
+# Predicciones con Prophet, entrenar y predecir el modelo, pasarmodelo al dataframe, creacion grafico con modelo entrenado, proyecto 'Bitcoin'
 Prophet - predecir el valor de Bitcoin
 # Visualizar y importar datos, representacion grafica con variables 'y', 'x'y visualizar la relacion entre ellos, visualizar probabilidad de exito o la evolucion en el tiempo, proyecto sobre SpaceX
 SpaceX - 4 - EDA
